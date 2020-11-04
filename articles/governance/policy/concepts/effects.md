@@ -733,7 +733,7 @@ The **operation** property has the following options:
 |-|-|
 |addOrReplace |Adds the defined property or tag and value to the resource, even if the property or tag already exists with a different value. |
 |Add |Adds the defined property or tag and value to the resource. |
-|Remove |Removes the defined property or tag from the resource. |
+|Remove |Removes the defined tag from the resource. |
 
 ### Modify examples
 
